@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "80d8ae68-eebf-42c9-9807-e3d591357f4a": {
+      "ProjectGuid": "80d8ae68-eebf-42c9-9807-e3d591357f4a",
+      "DisplayName": "ICollection_IList_IEnumerable_IQueryable",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
